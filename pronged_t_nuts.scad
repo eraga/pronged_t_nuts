@@ -13,5 +13,3 @@ PRONGED_T_NUT_M8x15 = [M8_nut,  1.5, 22.2,  9.0,  15];
 PRONGED_T_NUT_M8x17 = [M8_nut,  1.5, 22.2,  9.0,  17];
 
 use <pronged_t_nut.scad>
-
-pronged_t_nut(PRONGED_T_NUT_M8x17);
